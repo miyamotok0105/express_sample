@@ -12,6 +12,11 @@ http://expressjs.com/ja/
     cd sample3
     node app.js
 
+<br>
+http://localhost:3000/
+
+<br>
+
 //キャリビレーション
 <br>
 http://localhost:3000/tracking.js/examples/brief.html

@@ -46,6 +46,8 @@ http://localhost:3000/web-docs-samples/speech/explore-api/index.html
 
 app.use('/clmtrackr', express.static(__dirname + '/clmtrackr'));
 app.use('/tracking.js', express.static(__dirname + '/tracking.js'));
+app.use('/googlemaps-tsp-ga', express.static(__dirname + '/googlemaps-tsp-ga'));
+
 // app.use('/web-docs-samples', express.static(__dirname + '/web-docs-samples'));
 
 
